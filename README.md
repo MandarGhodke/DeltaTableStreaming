@@ -1,5 +1,6 @@
 # DeltaTableS3Streaming
 Real-Time Kafka to Delta Lake Pipeline using PySpark | A PySpark streaming solution, that ingests JSON data from Apache Kafka, performs transformations and validations, and writes to Delta Lake on AWS S3, using Spark Structured Streaming.
+![Data Flow](images/data_pipeline.png)
 
 ## Key Features:
 1. Application logging (log4j) enabled
